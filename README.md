@@ -11,4 +11,6 @@ I analyze three different datasets:
 - published data from a magnetoencephalography (MEG) study  
 - psychophysical data from an AX study from my dissertation (not yet published)  
 
-The analyses are contained in two IPython-based notebooks. The first implements the analyses in R using the IPython engine. The second implements the analyses in Julia using the Julia engine. The analyses largely agree between the two comparisons. The notebooks serve as a good learning tool for model calls, evaluation and QA.
+The analyses are contained in two IPython-based notebooks. The first implements the analyses in R using the IPython engine. The second implements the analyses in Julia using the Julia engine. The analyses largely agree between the two comparisons. The notebooks serve as a good learning tool for model calls, evaluation and QA.  
+
+The notebooks also serve as a kind of tutorial/reference (especially for Julia) in specifying data structure, interaction terms and specific details (such as error families and link functions) for model calls.
